@@ -1,0 +1,14 @@
+layoutparser
+opencv-python-headless
+pandas
+transformers
+torch
+Pillow
+pdf2image
+python-csv
+scikit-learn
+matplotlib
+seaborn
+xgboost
+catboost
+joblib
